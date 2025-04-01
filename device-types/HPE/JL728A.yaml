@@ -1,9 +1,12 @@
 ---
 manufacturer: HPE
-model: Aruba 6200F-48G-POE4-4SFP+ 740W
+model: HPE Aruba Networking CX 6200F 48G Class4 PoE 4SFP+ 740W Switch
 slug: JL728A
 part_number: JL728A
 u_height: 1
+airflow: front-to-rear
+weight: 5.1
+weight_unit: kg
 is_full_depth: true
 front_image: true
 rear_image: true
@@ -15,7 +18,7 @@ console-ports:
 power-ports:
   - name: ps1
     type: iec-60320-c14
-    maximum_draw: 940
+    maximum_draw: 950
     allocated_draw: 740
 interfaces:
   - name: 1/1/1
