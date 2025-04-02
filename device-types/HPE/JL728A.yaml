@@ -5,9 +5,9 @@ slug: hpe-JL728A
 part_number: JL728A
 u_height: 1
 airflow: front-to-rear
-weight: 5.1
+weight: 5.10
 weight_unit: kg
-is_full_depth: true
+is_full_depth: false
 front_image: true
 rear_image: true
 console-ports:
